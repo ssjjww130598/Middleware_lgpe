@@ -1,0 +1,3 @@
+
+
+SOURCES := lgpe_dsplink.c lgpe_protocol.c cJSON.c lgpe_utility.c lgpe_sqlite.c lgpe_socket.c

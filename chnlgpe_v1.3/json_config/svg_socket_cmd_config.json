@@ -1,0 +1,21 @@
+{
+	"Change_Work_Mode":"0x11",
+	"Start_Stop":"0x12",
+	"Operation":"0x14",
+	"Reset":"0x15",
+	"Watchdog":"0x16",
+	"Set_Project_Param":"0x21",
+	"Set_Guard_Param":"0x22",
+	"Set_Sample_Param":"0x25",
+	"Set_Control_Param":"0x26",
+	"Get_Project_Param":"0x41",
+	"Get_Guard_Param":"0x42",
+	"Get_Control_Param":"0x44",
+	"Get_Sample_Param":"0x45",
+
+	"Get_Running_Data":"0x31",
+	"Get_Power_Unit_Data":"0x32",
+	"Get_Thd_Data":"0x33"
+	
+}
+
